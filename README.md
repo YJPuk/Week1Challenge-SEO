@@ -7,8 +7,6 @@ Done in 3 commits chronologically as listed below
 Took another 3 commits to get the site to deploy
 Had to redo the repo as site was not deploying properly
 
-Original repo containing all commits and changes: https://github.com/YJPuk/Week1Challenge-SEO.git
-
 Semantics
 Changed Website title in <head> to 'Horiseon Marketing Website'
 
