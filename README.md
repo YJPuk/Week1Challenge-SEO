@@ -22,7 +22,7 @@ CSS Removed header h1 .seo selector in CSS, serves no purpose
 HTML Changed header div to nav
 CSS Changed all lines with header div selector to header nav in Css
 
-HTML Added <hr> to seperate header and body 
+HTML Added hr to seperate header and body 
 
 HTML Changed "div class="content"" to "section"
 HTML Changed "div class="benefits"" to  "aside"
@@ -45,8 +45,7 @@ HTML Changed HTML to direct images from assets folder to Assets folder as it is 
  
   
   
-  
-  
+<hr>
   
   
   
